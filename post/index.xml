@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Paper</title>
+    <link>https://apt.blue/post/</link>
+    <description>Recent content in Posts on Paper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 02:34:34 +0800</lastBuildDate><atom:link href="https://apt.blue/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld2</title>
+      <link>https://apt.blue/post/helloworld2/</link>
+      <pubDate>Fri, 21 Oct 2022 02:34:34 +0800</pubDate>
+      
+      <guid>https://apt.blue/post/helloworld2/</guid>
+      <description>Hello World2 没事了没事了 没事了</description>
+    </item>
+    
+  </channel>
+</rss>
